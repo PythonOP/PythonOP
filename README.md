@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumyajit Saha</h1>
 <h3 align="center">Crafting Digital Experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pythonop&label=Profile%20views&color=0e75b6&style=flat" alt="pythonop" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pythonop&label=Profile%20views&color=0e75b6&style=flat" alt="pythonop" /> </p>
 
 - 🌱 I’m currently learning **Flutter Development**
 
